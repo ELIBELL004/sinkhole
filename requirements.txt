@@ -1,0 +1,3 @@
+# Core: Python 3.10+ stdlib only (ast, os, pathlib, json, argparse)
+# Optional for colored terminal output:
+colorama>=0.4.6
